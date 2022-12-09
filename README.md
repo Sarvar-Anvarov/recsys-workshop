@@ -1,7 +1,7 @@
 # recsys-workshop
 Материалы воркшопа по recsys
 
-Ссылка на ноушн-презентацию: https://iridescent-mandevilla-9ab.notion.site/be99baa2314549b798fe46c6ae4c4455
+Ссылка на ноушн-презентацию: [recsys notion](https://iridescent-mandevilla-9ab.notion.site/be99baa2314549b798fe46c6ae4c4455)
 
 Установка и запуск ноутбуков
 ```bash
